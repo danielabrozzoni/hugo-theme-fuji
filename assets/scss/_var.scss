@@ -21,11 +21,27 @@ $body-font-size: 16px !default;
 
 $width-md: 768px;
 
-$light-color-primary: #8aa2d3 !default; // https://irocore.com/aofuji/
-$light-color-secondary: #8f82bc !default; // https://irocore.com/fujimurasaki/
-$light-color-focus: #3b469b !default; // https://irocore.com/aomurasaki/
-$light-color-mute: #9ea1a3 !default; // https://irocore.com/suzu-iro/
-$light-color-font: #3f4551 !default; // https://irocore.com/konnezu/
+// hugo 1
+// $light-color-primary: #34C1F5 !default; // https://irocore.com/aofuji/
+// $light-color-secondary: #7ED6F7 !default; // https://irocore.com/fujimurasaki/
+// $light-color-focus: #2999C2 !default; // https://irocore.com/aomurasaki/
+// $light-color-mute: #195D75 !default; // https://irocore.com/suzu-iro/
+// $light-color-font: #3C6675 !default; // https://irocore.com/konnezu/
+// hugo 2
+// $light-color-primary: #4AC6F7 !default; // https://irocore.com/fujimurasaki/
+// $light-color-secondary: #00AFF5 !default; // https://irocore.com/aofuji/
+// $light-color-focus: #008BC2 !default; // https://irocore.com/aomurasaki/
+// $light-color-mute: #235E75 !default; // https://irocore.com/suzu-iro/
+// $light-color-font: #005475 !default; // https://irocore.com/konnezu/
+// $light-color-divider: #e5e2e4 !default; // https://irocore.com/komachinezu/
+// $light-color-bg: #fffffd !default; // https://irocore.com/shiro/
+// $light-color-codebg: #f6f8fa !default; // GitHub
+// hugo 3
+$light-color-primary: #24A3EB !default; // C
+$light-color-secondary: #6BBEEE !default; // B
+$light-color-focus: #104A6B !default; // A
+$light-color-mute: #1C7EB8 !default; // E
+$light-color-font: #30566B !default; // D
 $light-color-divider: #e5e2e4 !default; // https://irocore.com/komachinezu/
 $light-color-bg: #fffffd !default; // https://irocore.com/shiro/
 $light-color-codebg: #f6f8fa !default; // GitHub
